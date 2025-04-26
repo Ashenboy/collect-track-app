@@ -7,7 +7,7 @@
 
 ## 🖥️ Project Overview
 
-**CollectTrack** is a simple, modern React web application designed to help users organize, track, and manage their growing home collections. Now upgraded with auto-save, backup, and import/export capabilities for total data control!
+**CollectTrack** is a simple, modern React web application designed to help users organize, track, and manage their growing home collections with auto-save, backup, and import/export capabilities for total data control!
 
 Features include:
 - Dashboard overview with collection statistics

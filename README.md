@@ -125,11 +125,19 @@ This project is licensed under the MIT License.
 ---
 
 ## 📣 If you like this project...
+
 Give it a ⭐️ on GitHub! It helps me grow and motivates further development.
 Happy Collecting! 🎉
 ---
 
 ## 🎨 UI Screenshots
+
+![1](https://github.com/user-attachments/assets/c8623c72-d0f6-4047-9bf5-00195e24de2c)
+![2](https://github.com/user-attachments/assets/d737d2a2-5163-4045-a25f-d331ce4bae0c)
+![3](https://github.com/user-attachments/assets/9a81ccb2-0ae1-4b2b-bb81-e8ce2aec293e)
+![4](https://github.com/user-attachments/assets/0743daa8-2af9-4fe5-bfff-d6bd0989272a)
+![5](https://github.com/user-attachments/assets/7fb922f4-68a2-4881-89ae-8ff71bcd025b)
+![6](https://github.com/user-attachments/assets/5bdbb5a9-d377-4db3-a935-c1fe2c5158a4)
 
 
 ---

@@ -1,0 +1,90 @@
+.loans-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .loans-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .loans-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .loan-card {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    border-left: 4px solid #3498db;
+  }
+  
+  .loan-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .loan-header h3 {
+    margin: 0;
+    font-size: 1.1rem;
+  }
+  
+  .status-badge {
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 500;
+  }
+  
+  .status-active {
+    background-color: #e8f4fd;
+    color: #3498db;
+  }
+  
+  .status-due-soon {
+    background-color: #fef5e7;
+    color: #f39c12;
+  }
+  
+  .status-overdue {
+    background-color: #fde8e8;
+    color: #e74c3c;
+  }
+  
+  .status-returned {
+    background-color: #e9faf0;
+    color: #27ae60;
+  }
+  
+  .loan-details {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+  }
+  
+  .loan-info p,
+  .loan-dates p {
+    margin: 5px 0;
+    font-size: 0.9rem;
+  }
+  
+  .loan-notes {
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid #ecf0f1;
+    font-size: 0.9rem;
+  }
+  
+  .loan-actions {
+    margin-top: 15px;
+    display: flex;
+    justify-content: flex-end;
+  }
+  

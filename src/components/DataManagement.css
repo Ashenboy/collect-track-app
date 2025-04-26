@@ -1,0 +1,32 @@
+.data-management {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  .data-management h3 {
+    margin-bottom: 15px;
+    color: #2c3e50;
+    font-size: 1.1rem;
+  }
+  
+  .data-management-actions {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 15px;
+  }
+  
+  .import-controls {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .data-info {
+    font-size: 0.8rem;
+    color: #7f8c8d;
+    padding-top: 10px;
+    border-top: 1px solid #ecf0f1;
+  }
+  

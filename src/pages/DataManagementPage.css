@@ -1,0 +1,85 @@
+.data-management-page {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .data-management-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  
+  .data-card {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+  
+  .data-card h3 {
+    margin-bottom: 10px;
+    color: #2c3e50;
+    font-size: 1.1rem;
+  }
+  
+  .data-card p {
+    margin-bottom: .15px;
+    color: #7f8c8d;
+    font-size: 0.9rem;
+  }
+  
+  .backup-controls {
+    margin: 15px 0;
+  }
+  
+  .backup-info {
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 1px solid #ecf0f1;
+  }
+  
+  .danger-zone {
+    border: 1px solid #e74c3c;
+  }
+  
+  .danger-actions {
+    margin-top: 15px;
+  }
+  
+  .button-danger {
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button-danger:hover {
+    background-color: #c0392b;
+  }
+  
+  .data-warning {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #fdf2e9;
+    border-left: 3px solid #e74c3c;
+  }
+  
+  .data-stats {
+    margin-top: 10px;
+  }
+  
+  .stat-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 0;
+    border-bottom: 1px solid #ecf0f1;
+  }
+  
+  .stat-row:last-child {
+    border-bottom: none;
+  }

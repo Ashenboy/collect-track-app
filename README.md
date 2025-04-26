@@ -79,8 +79,8 @@ home-inventory-system/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/collecttrack.git
-cd collecttrack
+git clone https://github.com/Ashenboy/collect-track-app.git
+cd collect-track-app
 ```
 
 ### 2. Install Dependencies
@@ -124,6 +124,15 @@ This project is licensed under the MIT License.
 
 ---
 
+## 📣 If you like this project...
+Give it a ⭐️ on GitHub! It helps me grow and motivates further development.
+Happy Collecting! 🎉
+---
+
+## 🎨 UI Screenshots
+
+
+---
 # 🎯 Final Notes
 
 CollectTrack now not only helps you manage your collection but **protects your data automatically** — giving you full control with backup and restore features.
